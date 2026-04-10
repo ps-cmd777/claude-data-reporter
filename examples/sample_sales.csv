@@ -1,0 +1,501 @@
+order_id,date,customer_id,product_category,product_name,quantity,unit_price,total_revenue,region,customer_segment,discount_pct,is_returned
+ORD-00423,2023-01-04,CUST-0053,Clothing,Compression Socks,5.0,76.27,361.9,North,Budget,5.1,0
+ORD-00052,2023-01-06,CUST-0004,Electronics,Wireless Earbuds,2.0,43.75,74.9,North,Premium,14.4,0
+ORD-00395,2023-01-09,CUST-0081,Sports,Foam Roller,4.0,10.41,37.6,East,Standard,9.7,0
+ORD-00205,2023-01-10,CUST-0012,Electronics,4K Monitor,3.0,128.62,385.86,East,Budget,0.0,0
+ORD-00239,2023-01-13,CUST-0021,Electronics,SSD External 1TB,5.0,25.48,127.4,West,Premium,0.0,0
+ORD-00270,2023-01-15,CUST-0053,Home & Garden,LED String Lights,4.0,11.75,47.0,Central,Premium,0.0,0
+ORD-00136,2023-01-16,CUST-0003,Clothing,Merino Wool Sweater,2.0,69.37,117.65,North,Standard,15.2,0
+ORD-00150,2023-01-16,CUST-0001,Books,SQL Cookbook,2.0,17.28,25.33,East,Standard,26.7,0
+ORD-00085,2023-01-16,CUST-0124,Books,Thinking in Systems,5.0,18.13,75.96,East,Premium,16.2,0
+ORD-00227,2023-01-18,CUST-0009,Clothing,Canvas Backpack,2.0,85.35,170.7,North,Standard,0.0,0
+ORD-00415,2023-01-21,CUST-0145,Electronics,Webcam HD,1.0,92.85,92.85,East,Budget,0.0,0
+ORD-00069,2023-01-22,CUST-0019,Electronics,Wireless Earbuds,1.0,110.81,100.17,East,Standard,9.6,0
+ORD-00422,2023-01-25,CUST-0104,Home & Garden,Kitchen Scale Digital,3.0,47.15,141.45,North,Budget,0.0,0
+ORD-00485,2023-01-25,CUST-0004,Home & Garden,Throw Pillow Cover,4.0,20.93,83.72,North,Standard,0.0,0
+ORD-00164,2023-01-26,CUST-0002,Electronics,USB-C Hub,3.0,165.73,497.19,North,Standard,0.0,0
+ORD-00435,2023-01-28,CUST-0085,Electronics,4K Monitor,2.0,71.34,142.68,West,Premium,0.0,0
+ORD-00125,2023-01-29,CUST-0143,Clothing,Winter Jacket,4.0,46.0,184.0,North,Standard,0.0,0
+ORD-00451,2023-01-29,CUST-0039,Sports,Jump Rope Speed,5.0,16.37,71.86,Central,Standard,12.2,0
+ORD-00028,2023-01-30,CUST-0149,Clothing,Baseball Cap,4.0,34.53,138.12,North,Budget,0.0,0
+ORD-00281,2023-01-30,CUST-0010,Clothing,Merino Wool Sweater,2.0,30.46,60.92,North,Budget,0.0,0
+ORD-00176,2023-01-31,CUST-0021,Sports,Gym Gloves,4.0,19.52,78.08,East,Standard,0.0,0
+ORD-00287,2023-02-03,CUST-0095,Clothing,Performance Tee,4.0,72.43,289.72,North,Standard,0.0,0
+ORD-00292,2023-02-04,CUST-0023,Home & Garden,Throw Pillow Cover,4.0,,106.48,Central,Standard,0.0,0
+ORD-00424,2023-02-04,CUST-0040,Clothing,Running Shoes,3.0,46.95,115.92,Central,Standard,17.7,0
+ORD-00273,2023-02-05,CUST-0048,Clothing,Compression Socks,3.0,57.07,171.21,East,Premium,0.0,0
+ORD-00271,2023-02-06,CUST-0009,Books,SQL Cookbook,5.0,19.4,97.0,Central,Standard,0.0,0
+ORD-00449,2023-02-06,CUST-0112,Home & Garden,Plant Pot Ceramic,5.0,52.49,192.64,North,Budget,26.6,0
+ORD-00429,2023-02-07,CUST-0047,Sports,Ankle Weights,5.0,20.58,102.9,West,Standard,0.0,0
+ORD-00075,2023-02-08,CUST-0106,Books,Deep Work,4.0,,74.8,South,Budget,0.0,0
+ORD-00018,2023-02-11,CUST-0078,Sports,Water Bottle 32oz,1.0,43.11,30.74,West,Standard,28.7,0
+ORD-00259,2023-02-13,CUST-0001,Home & Garden,Wall Clock Modern,1.0,48.96,43.18,West,Standard,11.8,0
+ORD-00140,2023-02-22,CUST-0109,Sports,Jump Rope Speed,2.0,24.94,47.19,East,Standard,5.4,0
+ORD-00123,2023-02-23,CUST-0146,Sports,Jump Rope Speed,5.0,21.91,87.75,Central,Standard,19.9,0
+ORD-00339,2023-02-23,CUST-0024,Books,Clean Code,1.0,13.49,13.49,East,Premium,0.0,0
+ORD-00364,2023-02-25,CUST-0045,Electronics,SSD External 1TB,3.0,70.84,212.52,North,Standard,0.0,0
+ORD-00098,2023-02-25,CUST-0056,Sports,Foam Roller,2.0,25.69,45.63,North,Premium,11.2,0
+ORD-00086,2023-02-26,CUST-0055,Sports,Foam Roller,4.0,28.13,112.52,East,Premium,0.0,0
+ORD-00413,2023-02-27,CUST-0120,Sports,Water Bottle 32oz,2.0,36.1,67.87,West,Budget,6.0,0
+ORD-00455,2023-02-27,CUST-0131,Clothing,Fleece Hoodie,1.0,27.88,27.88,Central,Budget,0.0,0
+ORD-00188,2023-03-01,CUST-0137,Books,Atomic Habits,1.0,16.78,16.78,Central,Standard,0.0,0
+ORD-00005,2023-03-01,CUST-0037,Home & Garden,Kitchen Scale Digital,4.0,9.34,27.2,West,Budget,27.2,0
+ORD-00350,2023-03-01,CUST-0138,Electronics,Phone Stand,4.0,63.75,255.0,Central,Budget,0.0,0
+ORD-00337,2023-03-01,CUST-0082,Electronics,Webcam HD,5.0,52.75,263.75,South,Standard,0.0,0
+ORD-00109,2023-03-02,CUST-0076,Books,The Data Warehouse Toolkit,5.0,15.82,65.34,West,Standard,17.4,0
+ORD-00294,2023-03-03,CUST-0002,Clothing,Chino Pants,5.0,35.66,178.3,East,Standard,0.0,0
+ORD-00290,2023-03-05,CUST-0050,Home & Garden,Air Purifier,4.0,43.92,135.27,West,Standard,23.0,0
+ORD-00129,2023-03-06,CUST-0042,Home & Garden,Wall Clock Modern,5.0,38.58,192.9,East,Standard,0.0,1
+ORD-00409,2023-03-07,CUST-0009,Books,The Phoenix Project,3.0,16.81,35.5,South,Standard,29.6,0
+ORD-00258,2023-03-07,CUST-0128,Sports,Resistance Bands Set,4.0,16.99,53.14,West,Premium,21.8,0
+ORD-00230,2023-03-07,CUST-0036,Electronics,SSD External 1TB,2.0,87.94,175.88,South,Standard,0.0,0
+ORD-00161,2023-03-08,CUST-0011,Electronics,Wireless Earbuds,5.0,144.74,723.7,North,Standard,0.0,0
+ORD-00240,2023-03-09,CUST-0024,Electronics,Laptop Pro 15,5.0,53.17,265.85,West,Premium,0.0,0
+ORD-00155,2023-03-09,CUST-0106,Home & Garden,French Press Coffee Maker,4.0,19.09,55.21,East,Standard,27.7,0
+ORD-00404,2023-03-10,CUST-0032,Clothing,Slim Fit Jeans,2.0,54.34,108.68,South,Budget,0.0,0
+ORD-00060,2023-03-12,CUST-0033,Sports,Water Bottle 32oz,5.0,13.35,66.75,West,Premium,0.0,0
+ORD-00269,2023-03-12,CUST-0003,Home & Garden,Air Purifier,2.0,58.09,116.18,West,Premium,0.0,0
+ORD-00363,2023-03-13,CUST-0088,Home & Garden,French Press Coffee Maker,3.0,32.54,97.62,West,Standard,0.0,0
+ORD-00099,2023-03-14,CUST-0144,Books,SQL Cookbook,4.0,10.21,40.84,North,Standard,0.0,0
+ORD-00389,2023-03-14,CUST-0005,Books,The Pragmatic Programmer,4.0,23.0,92.0,Central,Standard,0.0,0
+ORD-00473,2023-03-14,CUST-0003,Electronics,Phone Stand,5.0,69.31,315.71,West,Standard,8.9,0
+ORD-00362,2023-03-14,CUST-0076,Clothing,Baseball Cap,4.0,58.29,233.16,South,Standard,0.0,0
+ORD-00392,2023-03-16,CUST-0136,Sports,Gym Gloves,4.0,9.93,39.72,East,Budget,0.0,0
+ORD-00209,2023-03-16,CUST-0026,Clothing,Winter Jacket,5.0,,48.7,West,Standard,0.0,0
+ORD-00193,2023-03-16,CUST-0008,Books,The Phoenix Project,3.0,13.16,28.47,North,Premium,27.9,0
+ORD-00437,2023-03-17,CUST-0132,Electronics,4K Monitor,2.0,118.62,196.2,North,Standard,17.3,0
+ORD-00218,2023-03-17,CUST-0003,Home & Garden,Throw Pillow Cover,4.0,35.41,141.64,East,Standard,0.0,0
+ORD-00009,2023-03-19,CUST-0033,Sports,Protein Shaker,3.0,26.14,78.42,South,Budget,0.0,0
+ORD-00217,2023-03-20,CUST-0043,Clothing,Merino Wool Sweater,5.0,78.61,393.05,North,Standard,0.0,0
+ORD-00037,2023-03-20,CUST-0038,Clothing,Fleece Hoodie,1.0,23.2,23.2,North,Premium,0.0,0
+ORD-00335,2023-03-21,CUST-0074,Books,Python for Data Analysis,1.0,22.15,22.15,Central,Premium,0.0,0
+ORD-00207,2023-03-21,CUST-0090,Home & Garden,LED String Lights,3.0,6.36,16.26,South,Standard,14.8,0
+ORD-00302,2023-03-22,CUST-0014,Home & Garden,Bamboo Cutting Board,2.0,74.68,139.8,South,Standard,6.4,0
+ORD-00474,2023-03-22,CUST-0124,Home & Garden,Vacuum Storage Bags,5.0,130.67,653.35,North,Premium,0.0,0
+ORD-00341,2023-03-24,CUST-0001,Electronics,Webcam HD,1.0,127.55,127.55,North,Standard,0.0,0
+ORD-00231,2023-03-25,CUST-0014,Electronics,SSD External 1TB,4.0,39.91,121.33,North,Standard,24.0,0
+ORD-00310,2023-03-25,CUST-0148,Books,The Data Warehouse Toolkit,5.0,18.02,90.1,North,Standard,0.0,0
+ORD-00153,2023-03-25,CUST-0063,Electronics,Wireless Earbuds,2.0,33.86,67.72,South,Standard,0.0,0
+ORD-00059,2023-03-25,CUST-0047,Home & Garden,Scented Candle Set,3.0,33.56,89.3,North,Standard,11.3,0
+ORD-00050,2023-03-25,CUST-0026,Electronics,Phone Stand,1.0,297.96,219.0,South,Standard,26.5,0
+ORD-00417,2023-03-26,CUST-0002,Home & Garden,Plant Pot Ceramic,1.0,38.11,38.11,West,Budget,0.0,0
+ORD-00128,2023-03-27,CUST-0002,Sports,Workout Timer,1.0,32.76,27.52,South,Standard,16.0,0
+ORD-00264,2023-03-27,CUST-0004,Books,Clean Code,4.0,16.93,58.71,East,Premium,13.3,0
+ORD-00462,2023-03-27,CUST-0026,Home & Garden,LED String Lights,5.0,23.5,117.5,East,Standard,0.0,0
+ORD-00204,2023-03-27,CUST-0112,Sports,Resistance Bands Set,5.0,16.61,77.15,North,Standard,7.1,0
+ORD-00261,2023-03-28,CUST-0071,Electronics,Mechanical Keyboard,2.0,84.6,149.23,South,Standard,11.8,0
+ORD-00469,2023-03-29,CUST-0042,Sports,Gym Gloves,1.0,25.17,20.41,South,Standard,18.9,0
+ORD-00376,2023-03-29,CUST-0115,Electronics,Webcam HD,3.0,40.14,120.42,West,Premium,0.0,0
+ORD-00091,2023-03-31,CUST-0127,Electronics,USB-C Hub,2.0,81.15,135.52,East,Standard,16.5,0
+ORD-00195,2023-03-31,CUST-0122,Books,Designing Data-Intensive Applications,4.0,25.06,100.24,East,Standard,0.0,1
+ORD-00029,2023-04-01,CUST-0085,Sports,Water Bottle 32oz,94.0,,3643.44,Central,Standard,0.0,0
+ORD-00442,2023-04-01,CUST-0104,Electronics,Laptop Pro 15,1.0,69.75,69.75,Central,Standard,0.0,0
+ORD-00268,2023-04-01,CUST-0001,Books,The Phoenix Project,3.0,12.16,36.48,East,Premium,0.0,0
+ORD-00375,2023-04-03,CUST-0073,Books,The Phoenix Project,2.0,20.41,40.82,East,Standard,0.0,0
+ORD-00089,2023-04-04,CUST-0006,Home & Garden,Bamboo Cutting Board,2.0,30.1,42.5,West,Standard,29.4,0
+ORD-00266,2023-04-06,CUST-0001,Sports,Protein Shaker,1.0,25.85,22.41,East,Premium,13.3,0
+ORD-00175,2023-04-06,CUST-0049,Home & Garden,LED String Lights,1.0,85.91,67.44,Central,Budget,21.5,0
+ORD-00084,2023-04-07,CUST-0022,Sports,Water Bottle 32oz,1.0,10.71,10.71,West,Premium,0.0,0
+ORD-00352,2023-04-09,CUST-0006,Sports,Workout Timer,3.0,18.15,54.45,East,Budget,0.0,0
+ORD-00131,2023-04-09,CUST-0126,Books,Thinking in Systems,1.0,16.82,12.26,South,Budget,27.1,0
+ORD-00454,2023-04-10,CUST-0005,Books,Thinking in Systems,2.0,15.54,31.08,Central,Standard,0.0,0
+ORD-00272,2023-04-11,CUST-0045,Clothing,Winter Jacket,2.0,98.25,164.27,East,Standard,16.4,0
+ORD-00115,2023-04-12,CUST-0012,Books,Thinking in Systems,4.0,22.89,91.56,West,Standard,0.0,0
+ORD-00196,2023-04-13,CUST-0038,Electronics,Wireless Earbuds,3.0,137.28,291.99,Central,Standard,29.1,0
+ORD-00282,2023-04-14,CUST-0125,Clothing,Baseball Cap,1.0,29.87,23.24,East,Budget,22.2,0
+ORD-00456,2023-04-15,CUST-0116,Electronics,SSD External 1TB,5.0,223.81,1119.05,West,Standard,0.0,0
+ORD-00036,2023-04-18,CUST-0007,Home & Garden,LED String Lights,5.0,49.6,200.14,South,Standard,19.3,0
+ORD-00444,2023-04-19,CUST-0023,Electronics,4K Monitor,2.0,86.1,172.2,North,Standard,0.0,0
+ORD-00026,2023-04-20,CUST-0018,Clothing,Compression Socks,5.0,40.16,166.86,North,Standard,16.9,0
+ORD-00199,2023-04-21,CUST-0059,Clothing,Slim Fit Jeans,5.0,25.02,104.33,East,Budget,16.6,0
+ORD-00051,2023-04-22,CUST-0030,Home & Garden,Vacuum Storage Bags,5.0,142.68,570.01,East,Budget,20.1,0
+ORD-00419,2023-04-22,CUST-0013,Books,Python for Data Analysis,5.0,19.26,82.72,Central,Standard,14.1,0
+ORD-00213,2023-04-22,CUST-0096,Home & Garden,Scented Candle Set,1.0,15.18,15.18,Central,Standard,0.0,0
+ORD-00436,2023-04-23,CUST-0007,Books,The Phoenix Project,2.0,40.9,81.8,North,Standard,0.0,1
+ORD-00112,2023-04-23,CUST-0060,Clothing,Baseball Cap,2.0,56.94,113.88,South,Budget,0.0,0
+ORD-00332,2023-04-23,CUST-0042,Home & Garden,Vacuum Storage Bags,4.0,20.16,80.64,South,Budget,0.0,0
+ORD-00071,2023-04-29,CUST-0016,Books,Atomic Habits,3.0,19.36,45.94,South,Budget,20.9,0
+ORD-00482,2023-04-30,CUST-0097,Electronics,4K Monitor,2.0,367.84,735.68,South,Standard,0.0,0
+ORD-00016,2023-05-04,CUST-0005,Electronics,Mechanical Keyboard,3.0,56.61,149.45,West,Standard,12.0,0
+ORD-00488,2023-05-04,CUST-0001,Clothing,Slim Fit Jeans,1.0,48.74,38.41,East,Standard,21.2,0
+ORD-00039,2023-05-04,CUST-0005,Clothing,Chino Pants,1.0,30.35,30.35,South,Standard,0.0,0
+ORD-00163,2023-05-06,CUST-0006,Sports,Resistance Bands Set,3.0,27.6,82.8,Central,Standard,0.0,0
+ORD-00206,2023-05-06,CUST-0043,Electronics,Smart Speaker,1.0,132.46,132.46,North,Standard,0.0,0
+ORD-00243,2023-05-07,CUST-0108,Clothing,Fleece Hoodie,3.0,121.57,364.71,West,Standard,0.0,0
+ORD-00313,2023-05-07,CUST-0148,Home & Garden,LED String Lights,1.0,48.71,42.57,East,Premium,12.6,0
+ORD-00074,2023-05-07,CUST-0084,Books,Designing Data-Intensive Applications,2.0,23.17,46.34,North,Budget,0.0,0
+ORD-00283,2023-05-09,CUST-0028,Clothing,Slim Fit Jeans,3.0,22.64,48.49,East,Budget,28.6,0
+ORD-00255,2023-05-09,CUST-0065,Electronics,4K Monitor,1.0,57.49,45.53,North,Standard,20.8,0
+ORD-00427,2023-05-09,CUST-0005,Electronics,Mechanical Keyboard,4.0,112.94,451.76,East,Standard,0.0,0
+ORD-00192,2023-05-10,CUST-0118,Clothing,Compression Socks,2.0,35.7,71.4,West,Premium,0.0,0
+ORD-00416,2023-05-10,CUST-0135,Sports,Jump Rope Speed,2.0,16.37,24.0,West,Standard,26.7,0
+ORD-00254,2023-05-13,CUST-0031,Home & Garden,Scented Candle Set,1.0,40.39,40.39,West,Premium,0.0,0
+ORD-00284,2023-05-14,CUST-0050,Home & Garden,French Press Coffee Maker,1.0,46.27,39.01,North,Standard,15.7,0
+ORD-00348,2023-05-16,CUST-0065,Clothing,Performance Tee,5.0,53.69,232.75,West,Budget,13.3,0
+ORD-00173,2023-05-17,CUST-0150,Clothing,Winter Jacket,5.0,,99.15,South,Budget,0.0,0
+ORD-00190,2023-05-19,CUST-0040,Home & Garden,Vacuum Storage Bags,5.0,14.43,52.74,North,Standard,26.9,0
+ORD-00309,2023-05-21,CUST-0035,Electronics,Laptop Pro 15,5.0,100.64,380.42,West,Premium,24.4,0
+ORD-00103,2023-05-21,CUST-0120,Sports,Yoga Mat Premium,2.0,39.66,62.5,Central,Standard,21.2,0
+ORD-00146,2023-05-21,CUST-0107,Clothing,Canvas Backpack,3.0,38.49,115.47,South,Standard,0.0,0
+ORD-00445,2023-05-23,CUST-0028,Electronics,LED Desk Lamp,5.0,150.21,751.05,South,Standard,0.0,0
+ORD-00372,2023-05-23,CUST-0001,Books,The Pragmatic Programmer,2.0,9.52,19.04,North,Standard,0.0,0
+ORD-00108,2023-05-23,CUST-0003,Clothing,Running Shoes,5.0,48.67,193.71,North,Standard,20.4,0
+ORD-00475,2023-05-26,CUST-0015,Home & Garden,Bamboo Cutting Board,5.0,42.13,210.65,East,Standard,0.0,0
+ORD-00157,2023-05-27,CUST-0106,Electronics,Phone Stand,1.0,184.36,184.36,South,Budget,0.0,0
+ORD-00076,2023-05-27,CUST-0035,Clothing,Baseball Cap,2.0,13.22,26.44,North,Standard,0.0,0
+ORD-00407,2023-05-28,CUST-0034,Books,Thinking in Systems,5.0,19.29,74.46,West,Standard,22.8,0
+ORD-00267,2023-05-29,CUST-0006,Electronics,Phone Stand,5.0,295.19,1475.95,East,Premium,0.0,0
+ORD-00225,2023-05-29,CUST-0003,Electronics,Smart Speaker,2.0,67.86,135.72,Central,Standard,0.0,0
+ORD-00048,2023-05-30,CUST-0002,Sports,Ankle Weights,3.0,42.5,127.5,West,Premium,0.0,0
+ORD-00330,2023-05-30,CUST-0010,Electronics,LED Desk Lamp,1.0,65.12,58.87,East,Budget,9.6,0
+ORD-00171,2023-05-31,CUST-0004,Clothing,Compression Socks,3.0,110.44,305.48,East,Premium,7.8,0
+ORD-00077,2023-06-01,CUST-0122,Home & Garden,Air Purifier,4.0,20.29,81.16,North,Standard,0.0,0
+ORD-00398,2023-06-02,CUST-0007,Books,The Data Warehouse Toolkit,3.0,16.71,40.05,North,Premium,20.1,0
+ORD-00319,2023-06-02,CUST-0054,Sports,Water Bottle 32oz,2.0,11.75,17.46,North,Standard,25.7,0
+ORD-00464,2023-06-04,CUST-0003,Clothing,Merino Wool Sweater,1.0,29.21,29.21,West,Standard,0.0,0
+ORD-00221,2023-06-04,CUST-0036,Electronics,Smart Speaker,5.0,44.17,220.85,Central,Premium,0.0,0
+ORD-00401,2023-06-04,CUST-0030,Clothing,Fleece Hoodie,4.0,26.48,105.92,North,Budget,0.0,0
+ORD-00095,2023-06-04,CUST-0001,Home & Garden,LED String Lights,5.0,47.73,238.65,South,Standard,0.0,0
+ORD-00068,2023-06-05,CUST-0001,Sports,Ankle Weights,5.0,42.94,214.7,West,Standard,0.0,0
+ORD-00113,2023-06-06,CUST-0141,Home & Garden,French Press Coffee Maker,1.0,31.3,28.04,North,Budget,10.4,0
+ORD-00476,2023-06-06,CUST-0051,Home & Garden,Bamboo Cutting Board,5.0,11.97,59.85,East,Standard,0.0,0
+ORD-00200,2023-06-08,CUST-0013,Sports,Water Bottle 32oz,3.0,24.93,70.15,South,Budget,6.2,0
+ORD-00263,2023-06-08,CUST-0001,Clothing,Baseball Cap,2.0,66.57,133.14,East,Budget,0.0,0
+ORD-00374,2023-06-09,CUST-0020,Sports,Gym Gloves,3.0,30.07,90.21,West,Premium,0.0,0
+ORD-00044,2023-06-09,CUST-0147,Home & Garden,Wall Clock Modern,5.0,23.0,115.0,East,Standard,0.0,0
+ORD-00169,2023-06-10,CUST-0013,Sports,Pull-up Bar,4.0,9.83,39.32,North,Premium,0.0,0
+ORD-00484,2023-06-10,CUST-0030,Electronics,4K Monitor,5.0,149.65,748.25,West,Standard,0.0,0
+ORD-00494,2023-06-10,CUST-0007,Sports,Ankle Weights,5.0,18.73,93.65,South,Budget,0.0,0
+ORD-00184,2023-06-10,CUST-0028,Electronics,Laptop Pro 15,1.0,184.41,154.35,West,Standard,16.3,0
+ORD-00277,2023-06-11,CUST-0053,Electronics,Laptop Pro 15,1.0,75.46,75.46,West,Standard,0.0,0
+ORD-00033,2023-06-14,CUST-0021,Home & Garden,Wall Clock Modern,3.0,39.13,117.39,Central,Standard,0.0,0
+ORD-00316,2023-06-14,CUST-0118,Sports,Pull-up Bar,3.0,26.18,78.54,South,Budget,0.0,0
+ORD-00127,2023-06-15,CUST-0090,Home & Garden,Vacuum Storage Bags,5.0,46.94,234.7,South,Standard,0.0,0
+ORD-00323,2023-06-15,CUST-0012,Electronics,Phone Stand,1.0,64.41,50.88,North,Standard,21.0,0
+ORD-00147,2023-06-16,CUST-0001,Sports,Protein Shaker,5.0,34.33,171.65,East,Standard,0.0,0
+ORD-00369,2023-06-17,CUST-0003,Electronics,Mechanical Keyboard,3.0,36.59,109.77,West,Standard,0.0,0
+ORD-00134,2023-06-22,CUST-0019,Sports,Yoga Mat Premium,1.0,18.29,18.29,West,Standard,0.0,0
+ORD-00022,2023-06-25,CUST-0019,Sports,Resistance Bands Set,3.0,25.45,65.05,East,Standard,14.8,0
+ORD-00499,2023-06-27,CUST-0148,Clothing,Performance Tee,3.0,38.58,108.1,South,Standard,6.6,0
+ORD-00097,2023-06-27,CUST-0070,Electronics,Wireless Earbuds,1.0,67.58,67.58,West,Premium,0.0,1
+ORD-00373,2023-06-28,CUST-0144,Clothing,Running Shoes,4.0,28.29,113.16,West,Standard,0.0,0
+ORD-00314,2023-06-29,CUST-0047,Electronics,4K Monitor,3.0,90.95,247.47,Central,Standard,9.3,0
+ORD-00315,2023-06-29,CUST-0003,Electronics,Mechanical Keyboard,5.0,51.78,181.49,North,Standard,29.9,0
+ORD-00034,2023-06-30,CUST-0057,Books,SQL Cookbook,5.0,16.17,80.85,East,Premium,0.0,0
+ORD-00011,2023-07-01,CUST-0002,Home & Garden,Scented Candle Set,5.0,26.65,133.25,South,Budget,0.0,0
+ORD-00166,2023-07-01,CUST-0073,Books,Atomic Habits,1.0,15.11,15.11,North,Premium,0.0,0
+ORD-00249,2023-07-02,CUST-0087,Books,SQL Cookbook,1.0,13.37,13.37,Central,Budget,0.0,0
+ORD-00187,2023-07-02,CUST-0024,Clothing,Baseball Cap,5.0,15.21,76.05,West,Budget,0.0,0
+ORD-00288,2023-07-02,CUST-0014,Clothing,Chino Pants,3.0,46.71,129.62,West,Premium,7.5,0
+ORD-00385,2023-07-03,CUST-0006,Books,Designing Data-Intensive Applications,4.0,21.95,87.8,West,Budget,0.0,0
+ORD-00317,2023-07-04,CUST-0113,Home & Garden,Plant Pot Ceramic,2.0,35.1,70.2,East,Budget,0.0,0
+ORD-00094,2023-07-04,CUST-0049,Clothing,Chino Pants,3.0,43.82,131.46,South,Standard,0.0,0
+ORD-00379,2023-07-05,CUST-0051,Home & Garden,Vacuum Storage Bags,1.0,58.34,58.34,South,Standard,0.0,0
+ORD-00307,2023-07-06,CUST-0067,Home & Garden,Bamboo Cutting Board,3.0,36.38,109.14,Central,Standard,0.0,0
+ORD-00047,2023-07-07,CUST-0021,Electronics,Phone Stand,3.0,60.59,181.77,North,Standard,0.0,0
+ORD-00276,2023-07-09,CUST-0106,Clothing,Slim Fit Jeans,3.0,45.4,122.85,East,Premium,9.8,0
+ORD-00220,2023-07-10,CUST-0136,Electronics,Mechanical Keyboard,2.0,59.85,119.7,Central,Budget,0.0,0
+ORD-00082,2023-07-13,CUST-0039,Books,Clean Code,1.0,19.89,15.1,East,Standard,24.1,0
+ORD-00471,2023-07-13,CUST-0010,Books,The Pragmatic Programmer,1.0,21.16,21.16,South,Standard,0.0,0
+ORD-00481,2023-07-14,CUST-0147,Clothing,Baseball Cap,4.0,35.37,101.72,West,Premium,28.1,0
+ORD-00072,2023-07-14,CUST-0103,Home & Garden,Throw Pillow Cover,4.0,18.67,74.68,North,Budget,0.0,0
+ORD-00480,2023-07-15,CUST-0006,Home & Garden,Kitchen Scale Digital,3.0,34.02,77.57,Central,Premium,24.0,0
+ORD-00248,2023-07-16,CUST-0025,Electronics,Laptop Pro 15,5.0,104.66,403.99,West,Standard,22.8,0
+ORD-00286,2023-07-17,CUST-0018,Books,Atomic Habits,3.0,19.48,42.37,West,Premium,27.5,1
+ORD-00124,2023-07-17,CUST-0030,Electronics,Smart Speaker,3.0,151.88,455.64,South,Standard,0.0,0
+ORD-00312,2023-07-17,CUST-0001,Books,Atomic Habits,3.0,21.64,64.92,West,Standard,0.0,0
+ORD-00486,2023-07-18,CUST-0125,Electronics,Laptop Pro 15,3.0,44.73,96.75,East,Budget,27.9,0
+ORD-00232,2023-07-18,CUST-0001,Home & Garden,Bamboo Cutting Board,2.0,24.38,48.76,East,Premium,0.0,0
+ORD-00366,2023-07-18,CUST-0120,Home & Garden,Kitchen Scale Digital,4.0,11.17,44.68,East,Premium,0.0,0
+ORD-00250,2023-07-20,CUST-0103,Books,Thinking in Systems,2.0,23.87,37.52,Central,Budget,21.4,0
+ORD-00477,2023-07-21,CUST-0030,Clothing,Canvas Backpack,4.0,27.08,108.32,North,Budget,0.0,0
+ORD-00119,2023-07-22,CUST-0003,Clothing,Merino Wool Sweater,2.0,62.61,125.22,East,Premium,0.0,0
+ORD-00497,2023-07-22,CUST-0057,Books,SQL Cookbook,5.0,21.79,108.95,North,Budget,0.0,0
+ORD-00177,2023-07-23,CUST-0124,Clothing,Compression Socks,1.0,47.03,35.51,North,Budget,24.5,0
+ORD-00041,2023-07-24,CUST-0147,Electronics,USB-C Hub,4.0,112.13,448.52,Central,Standard,0.0,0
+ORD-00378,2023-07-24,CUST-0014,Books,Deep Work,3.0,24.7,74.1,West,Budget,0.0,0
+ORD-00070,2023-07-24,CUST-0040,Clothing,Merino Wool Sweater,4.0,22.8,91.2,East,Premium,0.0,0
+ORD-00149,2023-07-25,CUST-0064,Home & Garden,LED String Lights,1.0,24.16,24.16,East,Budget,0.0,0
+ORD-00002,2023-07-25,CUST-0115,Clothing,Compression Socks,4.0,74.62,298.48,North,Budget,0.0,0
+ORD-00400,2023-07-26,CUST-0037,Clothing,Baseball Cap,4.0,90.06,253.25,South,Budget,29.7,0
+ORD-00015,2023-07-26,CUST-0016,Clothing,Winter Jacket,3.0,22.22,66.66,West,Budget,0.0,0
+ORD-00093,2023-07-27,CUST-0013,Clothing,Baseball Cap,2.0,35.82,56.52,Central,Premium,21.1,0
+ORD-00107,2023-07-28,CUST-0110,Electronics,SSD External 1TB,4.0,89.57,270.14,South,Standard,24.6,1
+ORD-00010,2023-07-29,CUST-0003,Clothing,Fleece Hoodie,5.0,33.39,166.95,North,Budget,0.0,0
+ORD-00396,2023-07-30,CUST-0114,Electronics,Phone Stand,4.0,54.62,203.4,South,Standard,6.9,0
+ORD-00253,2023-07-30,CUST-0009,Electronics,Wireless Earbuds,3.0,59.73,179.19,East,Standard,0.0,0
+ORD-00111,2023-07-30,CUST-0042,Electronics,Webcam HD,2.0,172.92,315.41,North,Standard,8.8,0
+ORD-00458,2023-07-31,CUST-0037,Clothing,Merino Wool Sweater,2.0,60.49,120.98,East,Premium,0.0,0
+ORD-00399,2023-07-31,CUST-0006,Home & Garden,French Press Coffee Maker,1.0,26.92,26.92,North,Budget,0.0,0
+ORD-00057,2023-08-01,CUST-0012,Books,Clean Code,4.0,13.23,52.92,South,Premium,0.0,0
+ORD-00306,2023-08-02,CUST-0004,Books,The Pragmatic Programmer,5.0,22.15,110.75,Central,Premium,0.0,0
+ORD-00088,2023-08-02,CUST-0016,Sports,Resistance Bands Set,5.0,9.72,37.08,Central,Standard,23.7,0
+ORD-00237,2023-08-03,CUST-0007,Electronics,USB-C Hub,1.0,19.57,19.57,Central,Standard,0.0,0
+ORD-00355,2023-08-03,CUST-0007,Books,The Data Warehouse Toolkit,5.0,30.47,152.35,Central,Standard,0.0,0
+ORD-00027,2023-08-03,CUST-0137,Books,SQL Cookbook,3.0,11.79,35.37,North,Premium,0.0,0
+ORD-00035,2023-08-04,CUST-0001,Clothing,Merino Wool Sweater,3.0,93.57,280.71,,Budget,0.0,0
+ORD-00062,2023-08-05,CUST-0009,Home & Garden,Scented Candle Set,4.0,21.1,75.28,North,Standard,10.8,0
+ORD-00145,2023-08-05,CUST-0054,Clothing,Baseball Cap,3.0,50.18,115.77,North,Standard,23.1,0
+ORD-00472,2023-08-06,CUST-0001,Electronics,Phone Stand,1.0,137.29,137.29,North,Budget,0.0,0
+ORD-00038,2023-08-06,CUST-0005,Clothing,Performance Tee,1.0,62.53,62.53,East,Standard,0.0,0
+ORD-00487,2023-08-06,CUST-0016,Books,Thinking in Systems,1.0,18.38,18.38,West,Premium,0.0,0
+ORD-00311,2023-08-07,CUST-0001,Clothing,Canvas Backpack,3.0,32.13,82.51,East,Premium,14.4,0
+ORD-00384,2023-08-07,CUST-0030,Books,The Data Warehouse Toolkit,3.0,19.27,52.84,,Budget,8.6,0
+ORD-00322,2023-08-08,CUST-0049,Clothing,Performance Tee,3.0,49.54,148.62,East,Budget,0.0,0
+ORD-00138,2023-08-08,CUST-0072,Clothing,Winter Jacket,5.0,23.22,89.05,West,Standard,23.3,0
+ORD-00222,2023-08-10,CUST-0026,Electronics,4K Monitor,3.0,165.07,495.21,West,Budget,0.0,1
+ORD-00141,2023-08-10,CUST-0077,Clothing,Winter Jacket,1.0,25.56,25.56,West,Premium,0.0,0
+ORD-00142,2023-08-11,CUST-0092,Sports,Jump Rope Speed,1.0,20.24,14.35,South,Standard,29.1,0
+ORD-00126,2023-08-12,CUST-0023,Home & Garden,Vacuum Storage Bags,5.0,18.72,93.6,South,Standard,0.0,0
+ORD-00359,2023-08-12,CUST-0020,Sports,Resistance Bands Set,1.0,22.5,22.5,Central,Standard,0.0,0
+ORD-00203,2023-08-14,CUST-0004,Sports,Ankle Weights,5.0,30.5,152.5,West,Standard,0.0,0
+ORD-00090,2023-08-15,CUST-0001,Clothing,Winter Jacket,4.0,37.95,151.8,East,Standard,0.0,0
+ORD-00438,2023-08-16,CUST-0003,Home & Garden,Plant Pot Ceramic,1.0,23.77,21.56,West,Premium,9.3,0
+ORD-00278,2023-08-16,CUST-0005,Electronics,4K Monitor,5.0,51.93,211.61,West,Premium,18.5,0
+ORD-00210,2023-08-16,CUST-0031,Clothing,Chino Pants,1.0,32.85,32.85,West,Standard,0.0,1
+ORD-00470,2023-08-17,CUST-0007,Electronics,SSD External 1TB,3.0,126.06,350.19,East,Budget,7.4,0
+ORD-00500,2023-08-18,CUST-0011,Home & Garden,Throw Pillow Cover,5.0,27.84,139.2,West,Premium,0.0,0
+ORD-00304,2023-08-19,CUST-0049,Clothing,Chino Pants,2.0,23.75,47.5,West,Premium,0.0,0
+ORD-00172,2023-08-19,CUST-0045,Sports,Workout Timer,4.0,50.03,200.12,Central,Standard,0.0,1
+ORD-00183,2023-08-20,CUST-0001,Electronics,Phone Stand,1.0,131.63,118.34,North,Premium,10.1,0
+ORD-00148,2023-08-21,CUST-0036,Sports,Pull-up Bar,3.0,31.11,93.33,South,Standard,0.0,0
+ORD-00356,2023-08-22,CUST-0030,Electronics,Mechanical Keyboard,4.0,108.96,435.84,,Standard,0.0,0
+ORD-00289,2023-08-22,CUST-0092,Clothing,Performance Tee,2.0,54.38,102.13,West,Premium,6.1,0
+ORD-00244,2023-08-24,CUST-0001,Electronics,Webcam HD,1.0,93.64,84.56,East,Budget,9.7,0
+ORD-00328,2023-08-25,CUST-0008,Home & Garden,Bamboo Cutting Board,1.0,39.18,39.18,West,Standard,0.0,0
+ORD-00324,2023-08-26,CUST-0061,Sports,Protein Shaker,1.0,47.19,36.15,North,Standard,23.4,0
+ORD-00303,2023-08-26,CUST-0116,Sports,Protein Shaker,5.0,33.54,167.7,Central,Standard,0.0,0
+ORD-00496,2023-08-30,CUST-0026,Home & Garden,Wall Clock Modern,2.0,38.65,77.3,West,Standard,0.0,0
+ORD-00381,2023-08-31,CUST-0023,Clothing,Fleece Hoodie,3.0,35.38,92.55,West,Premium,12.8,0
+ORD-00154,2023-08-31,CUST-0009,Electronics,Phone Stand,1.0,142.44,142.44,South,Premium,0.0,0
+ORD-00066,2023-08-31,CUST-0063,Books,Deep Work,2.0,12.32,19.61,West,Budget,20.4,0
+ORD-00017,2023-09-01,CUST-0014,Sports,Gym Gloves,1.0,64.17,49.6,North,Budget,22.7,0
+ORD-00228,2023-09-01,CUST-0002,Home & Garden,Scented Candle Set,3.0,16.28,34.68,East,Premium,29.0,0
+ORD-00165,2023-09-01,CUST-0016,Electronics,Wireless Earbuds,4.0,60.75,243.0,Central,Premium,0.0,0
+ORD-00079,2023-09-01,CUST-0105,Home & Garden,Bamboo Cutting Board,1.0,75.77,75.77,West,Budget,0.0,0
+ORD-00067,2023-09-02,CUST-0083,Clothing,Fleece Hoodie,1.0,104.9,99.55,West,Standard,5.1,0
+ORD-00353,2023-09-04,CUST-0107,Clothing,Performance Tee,3.0,25.88,77.64,West,Budget,0.0,0
+ORD-00490,2023-09-04,CUST-0091,Home & Garden,Kitchen Scale Digital,4.0,32.85,94.35,North,Budget,28.2,0
+ORD-00063,2023-09-04,CUST-0103,Clothing,Running Shoes,1.0,182.14,128.23,Central,Budget,29.6,0
+ORD-00058,2023-09-05,CUST-0033,Electronics,Wireless Earbuds,1.0,43.11,40.26,South,Budget,6.6,0
+ORD-00354,2023-09-06,CUST-0123,Clothing,Baseball Cap,2.0,21.68,43.36,East,Standard,0.0,0
+ORD-00144,2023-09-06,CUST-0008,Sports,Gym Gloves,3.0,17.8,53.4,North,Standard,0.0,0
+ORD-00285,2023-09-06,CUST-0145,Books,Atomic Habits,2.0,21.4,42.8,Central,Premium,0.0,0
+ORD-00461,2023-09-06,CUST-0039,Sports,Jump Rope Speed,5.0,10.44,47.03,South,Standard,9.9,0
+ORD-00489,2023-09-06,CUST-0016,Books,Atomic Habits,4.0,10.41,41.64,South,Premium,0.0,0
+ORD-00465,2023-09-08,CUST-0135,Home & Garden,Scented Candle Set,5.0,19.17,77.83,South,Budget,18.8,1
+ORD-00114,2023-09-08,CUST-0145,Books,The Data Warehouse Toolkit,1.0,9.66,9.66,East,Standard,0.0,0
+ORD-00133,2023-09-09,CUST-0001,Electronics,Phone Stand,4.0,47.92,164.27,South,Budget,14.3,0
+ORD-00212,2023-09-09,CUST-0064,Sports,Water Bottle 32oz,3.0,20.93,62.79,Central,Standard,0.0,0
+ORD-00121,2023-09-10,CUST-0086,Home & Garden,Plant Pot Ceramic,1.0,93.25,93.25,East,Budget,0.0,0
+ORD-00393,2023-09-11,CUST-0009,Electronics,Phone Stand,2.0,265.19,491.13,South,Standard,7.4,0
+ORD-00130,2023-09-11,CUST-0092,Books,Designing Data-Intensive Applications,1.0,19.41,17.26,Central,Premium,11.1,1
+ORD-00483,2023-09-11,CUST-0078,Home & Garden,Kitchen Scale Digital,4.0,50.88,203.52,North,Premium,0.0,0
+ORD-00274,2023-09-12,CUST-0105,Home & Garden,Throw Pillow Cover,1.0,40.54,40.54,West,Standard,0.0,0
+ORD-00349,2023-09-12,CUST-0004,Clothing,Performance Tee,5.0,59.83,299.15,East,Premium,0.0,0
+ORD-00135,2023-09-12,CUST-0001,Books,Designing Data-Intensive Applications,2.0,18.23,30.55,North,Standard,16.2,0
+ORD-00234,2023-09-13,CUST-0020,Sports,Yoga Mat Premium,2.0,12.97,25.94,North,Premium,0.0,0
+ORD-00344,2023-09-13,CUST-0023,Home & Garden,Plant Pot Ceramic,4.0,57.98,199.92,East,Standard,13.8,0
+ORD-00260,2023-09-13,CUST-0029,Books,Atomic Habits,5.0,19.52,97.6,South,Premium,0.0,0
+ORD-00197,2023-09-14,CUST-0078,Electronics,4K Monitor,2.0,82.19,164.38,Central,Standard,0.0,0
+ORD-00360,2023-09-14,CUST-0037,Electronics,Webcam HD,3.0,176.83,496.54,East,Standard,6.4,1
+ORD-00425,2023-09-16,CUST-0005,Clothing,Compression Socks,2.0,143.87,287.74,East,Standard,0.0,0
+ORD-00247,2023-09-16,CUST-0016,Home & Garden,Kitchen Scale Digital,5.0,24.72,109.51,Central,Premium,11.4,0
+ORD-00245,2023-09-16,CUST-0035,Clothing,Baseball Cap,3.0,50.54,108.56,North,Budget,28.4,0
+ORD-00478,2023-09-18,CUST-0022,Books,Deep Work,3.0,10.78,32.34,North,Budget,0.0,0
+ORD-00448,2023-09-18,CUST-0105,Home & Garden,Wall Clock Modern,3.0,41.87,125.61,North,Premium,0.0,0
+ORD-00336,2023-09-19,CUST-0044,Books,The Pragmatic Programmer,5.0,32.3,161.5,South,Budget,0.0,0
+ORD-00351,2023-09-19,CUST-0005,Sports,Resistance Bands Set,5.0,9.92,49.6,West,Standard,0.0,1
+ORD-00450,2023-09-20,CUST-0016,Electronics,Mechanical Keyboard,2.0,113.61,207.68,East,Premium,8.6,0
+ORD-00498,2023-09-22,CUST-0001,Home & Garden,Throw Pillow Cover,1.0,70.0,70.0,North,Budget,0.0,0
+ORD-00120,2023-09-23,CUST-0001,Books,Clean Code,1.0,23.53,23.53,West,Premium,0.0,0
+ORD-00020,2023-09-24,CUST-0099,Clothing,Baseball Cap,4.0,27.93,96.97,North,Standard,13.2,0
+ORD-00440,2023-09-24,CUST-0003,Books,Clean Code,1.0,13.7,13.7,South,Budget,0.0,0
+ORD-00329,2023-09-24,CUST-0112,Clothing,Running Shoes,82.0,64.61,5298.02,South,Standard,0.0,0
+ORD-00096,2023-09-24,CUST-0011,Clothing,Baseball Cap,3.0,38.39,82.92,Central,Standard,28.0,0
+ORD-00065,2023-09-25,CUST-0059,Clothing,Baseball Cap,2.0,46.34,71.64,West,Standard,22.7,0
+ORD-00229,2023-09-25,CUST-0028,Books,Designing Data-Intensive Applications,3.0,29.41,88.23,South,Standard,0.0,0
+ORD-00479,2023-09-25,CUST-0039,Home & Garden,Throw Pillow Cover,5.0,36.98,132.57,South,Premium,28.3,0
+ORD-00460,2023-09-25,CUST-0038,Clothing,Running Shoes,4.0,182.42,729.68,North,Standard,0.0,0
+ORD-00391,2023-09-26,CUST-0016,Books,The Pragmatic Programmer,1.0,14.28,11.1,Central,Budget,22.3,0
+ORD-00308,2023-09-26,CUST-0005,Home & Garden,Air Purifier,4.0,95.02,380.08,West,Standard,0.0,0
+ORD-00300,2023-09-27,CUST-0071,Clothing,Fleece Hoodie,3.0,42.64,127.92,West,Premium,0.0,0
+ORD-00013,2023-09-28,CUST-0001,Home & Garden,French Press Coffee Maker,1.0,16.39,12.44,South,Standard,24.1,0
+ORD-00492,2023-09-29,CUST-0080,Sports,Protein Shaker,5.0,22.03,110.15,East,Premium,0.0,0
+ORD-00122,2023-09-29,CUST-0033,Electronics,LED Desk Lamp,4.0,48.75,172.18,South,Standard,11.7,0
+ORD-00467,2023-09-29,CUST-0135,Clothing,Canvas Backpack,5.0,24.33,95.86,West,Standard,21.2,0
+ORD-00251,2023-09-30,CUST-0010,Electronics,USB-C Hub,3.0,38.79,97.4,North,Premium,16.3,0
+ORD-00412,2023-09-30,CUST-0112,Books,The Data Warehouse Toolkit,1.0,19.39,19.39,Central,Standard,0.0,0
+ORD-00326,2023-09-30,CUST-0001,Books,Designing Data-Intensive Applications,5.0,22.15,81.4,North,Standard,26.5,0
+ORD-00493,2023-09-30,CUST-0090,Home & Garden,Scented Candle Set,3.0,22.47,57.03,Central,Standard,15.4,0
+ORD-00421,2023-10-01,CUST-0002,Sports,Gym Gloves,2.0,18.88,37.76,West,Standard,0.0,0
+ORD-00365,2023-10-02,CUST-0003,Clothing,Performance Tee,4.0,22.12,88.48,South,Standard,0.0,0
+ORD-00158,2023-10-02,CUST-0013,Electronics,LED Desk Lamp,4.0,110.27,441.08,South,Standard,0.0,0
+ORD-00078,2023-10-03,CUST-0048,Home & Garden,Vacuum Storage Bags,1.0,55.29,55.29,West,Budget,0.0,0
+ORD-00186,2023-10-03,CUST-0016,Sports,Workout Timer,1.0,13.9,11.3,North,Standard,18.7,0
+ORD-00223,2023-10-03,CUST-0001,Books,Designing Data-Intensive Applications,1.0,22.64,22.64,East,Standard,0.0,0
+ORD-00081,2023-10-04,CUST-0034,Electronics,Mechanical Keyboard,4.0,29.54,84.96,North,Standard,28.1,0
+ORD-00411,2023-10-04,CUST-0083,Sports,Yoga Mat Premium,2.0,25.89,51.78,South,Standard,0.0,0
+ORD-00054,2023-10-04,CUST-0121,Electronics,USB-C Hub,4.0,39.51,119.0,West,Premium,24.7,0
+ORD-00040,2023-10-05,CUST-0101,Electronics,Wireless Earbuds,3.0,60.11,180.33,West,Budget,0.0,1
+ORD-00061,2023-10-05,CUST-0002,Books,The Pragmatic Programmer,4.0,23.4,93.6,Central,Standard,0.0,0
+ORD-00368,2023-10-06,CUST-0091,Electronics,4K Monitor,5.0,93.65,468.25,South,Standard,0.0,0
+ORD-00156,2023-10-06,CUST-0017,Electronics,SSD External 1TB,3.0,241.96,628.61,East,Standard,13.4,0
+ORD-00208,2023-10-08,CUST-0088,Home & Garden,Vacuum Storage Bags,5.0,74.75,373.75,South,Standard,0.0,0
+ORD-00275,2023-10-08,CUST-0001,Electronics,4K Monitor,2.0,60.81,109.7,West,Standard,9.8,0
+ORD-00030,2023-10-09,CUST-0014,Clothing,Fleece Hoodie,4.0,22.55,90.2,South,Budget,0.0,0
+ORD-00049,2023-10-09,CUST-0081,Books,SQL Cookbook,1.0,21.95,21.95,North,Standard,0.0,1
+ORD-00318,2023-10-10,CUST-0039,Electronics,USB-C Hub,1.0,35.39,33.05,East,Budget,6.6,0
+ORD-00394,2023-10-10,CUST-0002,Electronics,Wireless Earbuds,4.0,107.73,430.92,North,Standard,0.0,0
+ORD-00333,2023-10-12,CUST-0022,Home & Garden,Bamboo Cutting Board,5.0,43.67,218.35,Central,Standard,0.0,0
+ORD-00211,2023-10-12,CUST-0149,Sports,Workout Timer,2.0,40.96,72.58,North,Standard,11.4,1
+ORD-00433,2023-10-13,CUST-0022,Electronics,4K Monitor,2.0,217.32,434.64,South,Standard,0.0,0
+ORD-00092,2023-10-13,CUST-0027,Home & Garden,Scented Candle Set,3.0,26.1,78.3,North,Standard,0.0,0
+ORD-00004,2023-10-13,CUST-0035,Electronics,LED Desk Lamp,1.0,59.94,59.94,West,Standard,0.0,0
+ORD-00491,2023-10-14,CUST-0054,Electronics,Wireless Earbuds,4.0,90.91,363.64,North,Premium,0.0,0
+ORD-00102,2023-10-14,CUST-0083,Clothing,Performance Tee,3.0,45.6,136.8,North,Budget,0.0,0
+ORD-00466,2023-10-14,CUST-0032,Sports,Ankle Weights,4.0,21.12,65.47,South,Standard,22.5,0
+ORD-00043,2023-10-14,CUST-0102,Home & Garden,Scented Candle Set,1.0,62.53,57.21,Central,Premium,8.5,0
+ORD-00055,2023-10-15,CUST-0001,Clothing,Baseball Cap,2.0,30.3,60.6,North,Premium,0.0,0
+ORD-00446,2023-10-17,CUST-0009,Home & Garden,Kitchen Scale Digital,5.0,22.02,110.1,North,Standard,0.0,0
+ORD-00453,2023-10-17,CUST-0009,Books,Atomic Habits,2.0,14.54,29.08,North,Standard,0.0,0
+ORD-00215,2023-10-18,CUST-0089,Clothing,Canvas Backpack,1.0,74.7,67.83,West,Premium,9.2,0
+ORD-00118,2023-10-19,CUST-0017,Sports,Protein Shaker,,15.8,31.6,West,Standard,0.0,0
+ORD-00106,2023-10-19,CUST-0087,Sports,Foam Roller,5.0,28.13,140.65,West,Premium,0.0,0
+ORD-00387,2023-10-19,CUST-0021,Sports,Ankle Weights,2.0,36.94,73.88,North,Standard,0.0,0
+ORD-00087,2023-10-20,CUST-0005,Sports,Resistance Bands Set,5.0,21.11,105.55,East,Standard,0.0,0
+ORD-00338,2023-10-21,CUST-0145,Home & Garden,French Press Coffee Maker,4.0,16.0,60.8,East,Premium,5.0,0
+ORD-00159,2023-10-22,CUST-0048,Clothing,Compression Socks,2.0,48.36,96.72,West,Standard,0.0,0
+ORD-00380,2023-10-22,CUST-0046,Clothing,Running Shoes,1.0,42.62,42.62,East,Standard,0.0,0
+ORD-00443,2023-10-24,CUST-0005,Electronics,Mechanical Keyboard,1.0,98.41,75.58,South,Standard,23.2,0
+ORD-00331,2023-10-24,CUST-0052,Sports,Protein Shaker,4.0,40.38,161.52,North,Standard,0.0,0
+ORD-00216,2023-10-25,CUST-0006,Home & Garden,Bamboo Cutting Board,,11.55,32.89,East,Budget,28.8,0
+ORD-00031,2023-10-26,CUST-0066,Home & Garden,Kitchen Scale Digital,3.0,32.66,97.98,South,Budget,0.0,0
+ORD-00439,2023-10-27,CUST-0118,Books,The Data Warehouse Toolkit,4.0,14.76,55.26,South,Premium,6.4,0
+ORD-00189,2023-10-27,CUST-0080,Electronics,Laptop Pro 15,3.0,59.91,129.41,North,Standard,28.0,0
+ORD-00256,2023-10-27,CUST-0008,Books,SQL Cookbook,1.0,16.76,16.76,South,Standard,0.0,0
+ORD-00180,2023-10-28,CUST-0018,Electronics,Wireless Earbuds,5.0,42.76,162.49,Central,Budget,24.0,0
+ORD-00117,2023-10-30,CUST-0080,Electronics,Smart Speaker,1.0,141.34,141.34,West,Standard,0.0,0
+ORD-00021,2023-10-30,CUST-0107,Books,Thinking in Systems,1.0,15.51,13.82,West,Standard,10.9,0
+ORD-00371,2023-10-31,CUST-0078,Electronics,LED Desk Lamp,1.0,93.47,93.47,West,Premium,0.0,0
+ORD-00007,2023-10-31,CUST-0014,Books,Deep Work,5.0,17.57,87.85,North,Budget,0.0,0
+ORD-00064,2023-11-01,CUST-0056,Home & Garden,Air Purifier,,27.92,27.92,East,Budget,0.0,0
+ORD-00357,2023-11-01,CUST-0076,Home & Garden,French Press Coffee Maker,1.0,45.96,45.96,Central,Premium,0.0,0
+ORD-00160,2023-11-02,CUST-0022,Sports,Pull-up Bar,5.0,22.1,88.07,West,Premium,20.3,0
+ORD-00432,2023-11-03,CUST-0019,Home & Garden,Kitchen Scale Digital,4.0,44.32,157.07,East,Budget,11.4,0
+ORD-00001,2023-11-03,CUST-0077,Electronics,Phone Stand,5.0,107.97,539.85,North,Standard,0.0,0
+ORD-00185,2023-11-03,CUST-0056,Electronics,Smart Speaker,2.0,52.03,104.06,Central,Standard,0.0,0
+ORD-00418,2023-11-04,CUST-0004,Home & Garden,Vacuum Storage Bags,4.0,35.99,143.96,East,Premium,0.0,0
+ORD-00367,2023-11-04,CUST-0109,Electronics,Smart Speaker,2.0,74.96,149.92,South,Premium,0.0,0
+ORD-00201,2023-11-04,CUST-0009,Home & Garden,LED String Lights,,39.98,39.98,East,Standard,0.0,0
+ORD-00105,2023-11-05,CUST-0138,Electronics,Phone Stand,4.0,22.61,90.44,East,Standard,0.0,0
+ORD-00299,2023-11-05,CUST-0074,Sports,Gym Gloves,3.0,43.01,129.03,East,Standard,0.0,0
+ORD-00403,2023-11-05,CUST-0001,Books,SQL Cookbook,1.0,19.36,15.14,West,Premium,21.8,0
+ORD-00025,2023-11-05,CUST-0003,Home & Garden,Scented Candle Set,,35.93,179.65,East,Standard,0.0,0
+ORD-00301,2023-11-05,CUST-0077,Electronics,Smart Speaker,,41.36,122.26,West,Premium,26.1,0
+ORD-00383,2023-11-05,CUST-0130,Home & Garden,LED String Lights,,48.46,171.79,,Premium,29.1,0
+ORD-00056,2023-11-05,CUST-0008,Sports,Jump Rope Speed,2.0,17.9,35.8,East,Premium,0.0,0
+ORD-00345,2023-11-06,CUST-0002,Books,Deep Work,2.0,12.59,23.14,South,Standard,8.1,1
+ORD-00459,2023-11-06,CUST-0033,Books,Clean Code,5.0,26.42,132.1,North,Premium,0.0,0
+ORD-00238,2023-11-06,CUST-0013,Clothing,Slim Fit Jeans,1.0,36.97,36.97,South,Budget,0.0,0
+ORD-00139,2023-11-06,CUST-0085,Electronics,Mechanical Keyboard,2.0,21.62,36.24,West,Standard,16.2,0
+ORD-00080,2023-11-06,CUST-0016,Clothing,Winter Jacket,4.0,77.83,266.18,East,Premium,14.5,0
+ORD-00495,2023-11-07,CUST-0126,Clothing,Slim Fit Jeans,4.0,40.92,155.33,East,Premium,5.1,0
+ORD-00053,2023-11-07,CUST-0006,Clothing,Baseball Cap,4.0,46.3,185.2,North,Budget,0.0,0
+ORD-00008,2023-11-07,CUST-0102,Clothing,Winter Jacket,4.0,26.94,107.76,West,Budget,0.0,0
+ORD-00346,2023-11-09,CUST-0116,Home & Garden,Kitchen Scale Digital,4.0,73.36,264.98,East,Standard,9.7,0
+ORD-00242,2023-11-10,CUST-0003,Clothing,Chino Pants,4.0,28.92,91.16,West,Premium,21.2,1
+ORD-00358,2023-11-10,CUST-0113,Clothing,Fleece Hoodie,5.0,38.3,178.48,West,Standard,6.8,0
+ORD-00430,2023-11-11,CUST-0077,Clothing,Running Shoes,5.0,50.63,181.26,North,Budget,28.4,0
+ORD-00298,2023-11-11,CUST-0005,Electronics,LED Desk Lamp,2.0,33.67,67.34,East,Premium,0.0,0
+ORD-00343,2023-11-11,CUST-0037,Home & Garden,French Press Coffee Maker,5.0,18.66,93.3,Central,Budget,0.0,0
+ORD-00426,2023-11-11,CUST-0010,Clothing,Slim Fit Jeans,2.0,37.0,74.0,East,Standard,0.0,0
+ORD-00327,2023-11-12,CUST-0049,Clothing,Performance Tee,4.0,36.65,146.6,West,Premium,0.0,0
+ORD-00214,2023-11-12,CUST-0120,Clothing,Slim Fit Jeans,5.0,25.87,129.35,South,Budget,0.0,0
+ORD-00046,2023-11-12,CUST-0027,Clothing,Fleece Hoodie,4.0,32.2,128.8,East,Standard,0.0,0
+ORD-00236,2023-11-12,CUST-0069,Electronics,Webcam HD,2.0,38.11,76.22,South,Standard,0.0,0
+ORD-00168,2023-11-13,CUST-0150,Home & Garden,Bamboo Cutting Board,,19.32,17.06,,Standard,11.7,0
+ORD-00083,2023-11-14,CUST-0003,Books,The Pragmatic Programmer,5.0,24.65,123.25,South,Standard,0.0,0
+ORD-00257,2023-11-15,CUST-0015,Sports,Resistance Bands Set,2.0,21.8,39.68,West,Premium,9.0,0
+ORD-00262,2023-11-17,CUST-0004,Clothing,Winter Jacket,1.0,36.05,32.77,Central,Premium,9.1,0
+ORD-00014,2023-11-17,CUST-0011,Books,Designing Data-Intensive Applications,1.0,24.88,19.28,West,Standard,22.5,1
+ORD-00151,2023-11-17,CUST-0022,Electronics,Phone Stand,2.0,186.91,373.82,West,Standard,0.0,0
+ORD-00397,2023-11-17,CUST-0011,Home & Garden,Throw Pillow Cover,5.0,58.16,290.8,Central,Budget,0.0,0
+ORD-00019,2023-11-18,CUST-0001,Electronics,Webcam HD,4.0,96.38,357.38,West,Budget,7.3,0
+ORD-00241,2023-11-18,CUST-0001,Books,The Pragmatic Programmer,2.0,13.84,24.0,South,Budget,13.3,0
+ORD-00167,2023-11-18,CUST-0094,Sports,Ankle Weights,2.0,13.5,21.55,East,Budget,20.2,0
+ORD-00291,2023-11-19,CUST-0007,Clothing,Winter Jacket,4.0,42.7,170.8,South,Standard,0.0,0
+ORD-00042,2023-11-19,CUST-0042,Home & Garden,Bamboo Cutting Board,2.0,27.25,47.47,East,Premium,12.9,0
+ORD-00045,2023-11-19,CUST-0004,Electronics,Wireless Earbuds,4.0,58.37,206.16,South,Standard,11.7,0
+ORD-00194,2023-11-19,CUST-0015,Books,SQL Cookbook,3.0,15.39,34.03,West,Budget,26.3,0
+ORD-00408,2023-11-20,CUST-0003,Electronics,Smart Speaker,5.0,126.79,633.95,West,Premium,0.0,0
+ORD-00434,2023-11-21,CUST-0082,Electronics,USB-C Hub,3.0,84.23,252.69,North,Standard,0.0,1
+ORD-00295,2023-11-22,CUST-0001,Clothing,Performance Tee,2.0,32.04,64.08,North,Budget,0.0,0
+ORD-00325,2023-11-23,CUST-0101,Clothing,Winter Jacket,5.0,34.93,134.83,East,Standard,22.8,0
+ORD-00390,2023-11-24,CUST-0066,Electronics,Smart Speaker,4.0,165.6,662.4,Central,Standard,0.0,0
+ORD-00280,2023-11-24,CUST-0106,Home & Garden,Kitchen Scale Digital,2.0,41.22,75.68,West,Standard,8.2,0
+ORD-00441,2023-11-24,CUST-0010,Electronics,LED Desk Lamp,2.0,173.4,322.52,South,Standard,7.0,0
+ORD-00428,2023-11-24,CUST-0105,Electronics,SSD External 1TB,3.0,51.46,154.38,North,Premium,0.0,0
+ORD-00073,2023-11-25,CUST-0032,Clothing,Chino Pants,2.0,92.87,185.74,West,Premium,0.0,1
+ORD-00116,2023-11-25,CUST-0076,Electronics,Mechanical Keyboard,2.0,211.71,423.42,West,Premium,0.0,0
+ORD-00305,2023-11-26,CUST-0003,Sports,Resistance Bands Set,3.0,59.66,178.98,Central,Budget,0.0,0
+ORD-00003,2023-11-26,CUST-0125,Electronics,LED Desk Lamp,2.0,80.26,160.52,South,Budget,0.0,0
+ORD-00334,2023-11-27,CUST-0064,Books,Clean Code,1.0,23.97,23.97,East,Standard,0.0,1
+ORD-00246,2023-11-28,CUST-0033,Clothing,Fleece Hoodie,4.0,18.39,64.37,North,Budget,12.5,0
+ORD-00252,2023-11-28,CUST-0015,Electronics,Phone Stand,1.0,,73.67,West,Standard,0.0,0
+ORD-00279,2023-11-30,CUST-0085,Books,The Data Warehouse Toolkit,5.0,16.66,83.3,West,Premium,0.0,0
+ORD-00198,2023-11-30,CUST-0048,Home & Garden,Vacuum Storage Bags,4.0,53.06,212.24,West,Standard,0.0,0
+ORD-00406,2023-12-01,CUST-0059,Clothing,Running Shoes,3.0,70.5,211.5,Central,Standard,0.0,0
+ORD-00452,2023-12-03,CUST-0009,Home & Garden,French Press Coffee Maker,1.0,54.95,54.95,North,Standard,0.0,0
+ORD-00179,2023-12-04,CUST-0004,Electronics,4K Monitor,5.0,108.5,542.5,East,Budget,0.0,0
+ORD-00181,2023-12-04,CUST-0002,Sports,Water Bottle 32oz,4.0,27.11,108.44,East,Budget,0.0,0
+ORD-00182,2023-12-05,CUST-0007,Electronics,Wireless Earbuds,5.0,30.18,131.43,South,Standard,12.9,0
+ORD-00024,2023-12-05,CUST-0050,Home & Garden,Air Purifier,4.0,34.66,105.92,North,Budget,23.6,1
+ORD-00414,2023-12-06,CUST-0145,Books,Python for Data Analysis,3.0,21.47,64.41,South,Budget,0.0,0
+ORD-00152,2023-12-06,CUST-0118,Books,The Pragmatic Programmer,5.0,20.45,102.25,West,Premium,0.0,0
+ORD-00370,2023-12-06,CUST-0007,Clothing,Performance Tee,1.0,43.94,43.94,South,Standard,0.0,0
+ORD-00296,2023-12-07,CUST-0017,Clothing,Baseball Cap,5.0,55.53,277.65,West,Premium,0.0,0
+ORD-00110,2023-12-07,CUST-0026,Electronics,4K Monitor,,143.32,114.08,North,Standard,20.4,0
+ORD-00420,2023-12-09,CUST-0042,Books,The Pragmatic Programmer,5.0,35.23,176.15,West,Standard,0.0,0
+ORD-00101,2023-12-09,CUST-0031,Electronics,USB-C Hub,3.0,89.98,249.96,East,Budget,7.4,0
+ORD-00162,2023-12-11,CUST-0115,Home & Garden,Vacuum Storage Bags,2.0,29.3,58.6,East,Standard,0.0,0
+ORD-00402,2023-12-11,CUST-0010,Electronics,LED Desk Lamp,1.0,51.49,51.49,South,Standard,0.0,0
+ORD-00321,2023-12-11,CUST-0001,Home & Garden,French Press Coffee Maker,5.0,7.68,38.4,West,Standard,0.0,0
+ORD-00265,2023-12-12,CUST-0125,Home & Garden,Wall Clock Modern,1.0,30.45,30.45,East,Standard,0.0,0
+ORD-00226,2023-12-13,CUST-0001,Books,Designing Data-Intensive Applications,3.0,14.03,42.09,South,Premium,0.0,0
+ORD-00012,2023-12-13,CUST-0103,Home & Garden,Wall Clock Modern,3.0,52.66,157.98,South,Standard,0.0,0
+ORD-00132,2023-12-13,CUST-0098,Home & Garden,Throw Pillow Cover,3.0,88.85,266.55,East,Premium,0.0,0
+ORD-00293,2023-12-13,CUST-0014,Home & Garden,Bamboo Cutting Board,3.0,138.17,414.51,East,Standard,0.0,1
+ORD-00219,2023-12-14,CUST-0059,Sports,Workout Timer,,13.52,48.73,North,Standard,9.9,0
+ORD-00431,2023-12-14,CUST-0013,Books,The Pragmatic Programmer,1.0,23.43,23.43,West,Standard,0.0,0
+ORD-00235,2023-12-15,CUST-0002,Electronics,Webcam HD,5.0,96.2,375.66,North,Premium,21.9,0
+ORD-00361,2023-12-15,CUST-0078,Home & Garden,LED String Lights,1.0,35.89,35.89,West,Budget,0.0,0
+ORD-00174,2023-12-16,CUST-0069,Sports,Foam Roller,2.0,35.25,70.5,Central,Budget,0.0,0
+ORD-00340,2023-12-16,CUST-0036,Clothing,Fleece Hoodie,1.0,62.19,62.19,Central,Standard,0.0,0
+ORD-00191,2023-12-16,CUST-0012,Clothing,Merino Wool Sweater,4.0,56.06,224.24,West,Premium,0.0,0
+ORD-00382,2023-12-16,CUST-0050,Electronics,Phone Stand,3.0,57.94,122.37,South,Premium,29.6,0
+ORD-00377,2023-12-16,CUST-0021,Home & Garden,Wall Clock Modern,5.0,40.25,145.1,Central,Standard,27.9,0
+ORD-00143,2023-12-16,CUST-0001,Sports,Jump Rope Speed,1.0,34.15,25.48,North,Standard,25.4,0
+ORD-00468,2023-12-17,CUST-0005,Electronics,4K Monitor,73.0,113.81,7086.83,Central,Standard,14.7,0
+ORD-00463,2023-12-18,CUST-0004,Electronics,SSD External 1TB,3.0,58.48,165.44,South,Budget,5.7,0
+ORD-00347,2023-12-18,CUST-0021,Clothing,Compression Socks,1.0,186.55,186.55,South,Budget,0.0,0
+ORD-00320,2023-12-19,CUST-0011,Books,Python for Data Analysis,2.0,21.53,43.06,North,Standard,0.0,0
+ORD-00170,2023-12-20,CUST-0023,Electronics,Smart Speaker,1.0,150.04,134.29,Central,Budget,10.5,0
+ORD-00388,2023-12-20,CUST-0004,Clothing,Baseball Cap,4.0,46.87,149.98,Central,Standard,20.0,0
+ORD-00224,2023-12-21,CUST-0137,Home & Garden,Kitchen Scale Digital,2.0,,26.1,East,Standard,0.0,0
+ORD-00137,2023-12-21,CUST-0064,Clothing,Canvas Backpack,2.0,21.14,38.26,East,Budget,9.5,0
+ORD-00342,2023-12-21,CUST-0091,Sports,Foam Roller,4.0,25.82,82.62,Central,Budget,20.0,0
+ORD-00100,2023-12-22,CUST-0053,Electronics,4K Monitor,3.0,125.7,274.53,North,Standard,27.2,0
+ORD-00233,2023-12-23,CUST-0003,Electronics,Smart Speaker,4.0,51.36,162.3,South,Premium,21.0,1
+ORD-00104,2023-12-24,CUST-0073,Sports,Jump Rope Speed,3.0,9.24,27.72,Central,Premium,0.0,0
+ORD-00032,2023-12-24,CUST-0070,Sports,Water Bottle 32oz,4.0,16.28,65.12,South,Standard,0.0,0
+ORD-00023,2023-12-24,CUST-0004,Books,Thinking in Systems,1.0,18.38,18.38,East,Budget,0.0,0
+ORD-00202,2023-12-25,CUST-0015,Home & Garden,LED String Lights,3.0,27.61,82.83,North,Budget,0.0,0
+ORD-00006,2023-12-26,CUST-0092,Clothing,Running Shoes,3.0,61.59,184.77,East,Standard,0.0,0
+ORD-00447,2023-12-27,CUST-0071,Books,Thinking in Systems,2.0,13.16,26.32,South,Standard,0.0,0
+ORD-00297,2023-12-27,CUST-0001,Electronics,4K Monitor,2.0,107.37,163.2,West,Standard,24.0,0
+ORD-00457,2023-12-27,CUST-0086,Electronics,Phone Stand,5.0,140.25,701.25,South,Standard,0.0,0
+ORD-00386,2023-12-28,CUST-0020,Electronics,4K Monitor,3.0,98.72,228.34,North,Premium,22.9,0
+ORD-00178,2023-12-30,CUST-0034,Clothing,Chino Pants,1.0,16.38,16.38,West,Premium,0.0,0
+ORD-00410,2023-12-31,CUST-0012,Sports,Jump Rope Speed,4.0,25.31,78.97,North,Budget,22.0,0
+ORD-00405,2023-12-31,CUST-0137,Electronics,USB-C Hub,5.0,127.41,637.05,West,Standard,0.0,0
