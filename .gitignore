@@ -59,3 +59,4 @@ output/*.html
 .mypy_cache/
 .dmypy.json
 dmypy.json
+.agents/

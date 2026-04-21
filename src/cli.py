@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 # Load .env before any os.getenv call anywhere in the pipeline
 load_dotenv()
 
-_DEFAULT_MODEL = "claude-sonnet-4-5-20250514"
+_DEFAULT_MODEL = "claude-sonnet-4-6"
 _DEFAULT_OUTPUT_DIR = "output"
 
 
@@ -113,7 +113,7 @@ def analyze(
         profiler = DataProfiler()
         df = profiler.load_csv(csv_file)
     except Exception as exc:
-        _error(f"Failed to load CSV: {exc}")
+        _error("Failed to load CSV. Ensure the file is valid and not corrupted.")
 
     _step(
         f"  Loaded {df.shape[0]:,} rows × {df.shape[1]} columns.",
@@ -123,7 +123,7 @@ def analyze(
     try:
         profile = profiler.profile()
     except Exception as exc:
-        _error(f"Failed to profile data: {exc}")
+        _error("Failed to profile data. The CSV may contain unsupported formats.")
 
     if verbose:
         click.echo(
@@ -157,7 +157,7 @@ def analyze(
         analyzer = DataAnalyzer(profiler=profiler, model=resolved_model)
         analysis = analyzer.analyze(profile)
     except Exception as exc:
-        _error(f"Claude API call failed: {exc}")
+        _error("Claude API call failed. Check your API key and network connection.")
 
     # ------------------------------------------------------------------ #
     # 5. Write report

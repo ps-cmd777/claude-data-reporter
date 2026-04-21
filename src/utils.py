@@ -9,8 +9,11 @@ from pathlib import Path
 import click
 
 
+_MAX_FILE_SIZE_MB = 500
+
+
 def validate_csv_path(path: str) -> Path:
-    """Validate that path exists, is a file, and has a .csv extension.
+    """Validate that path exists, is a file, has a .csv extension, and is within size limit.
 
     Raises click.BadParameter so the CLI surfaces a clean, formatted error.
     """
@@ -22,6 +25,11 @@ def validate_csv_path(path: str) -> Path:
     if p.suffix.lower() != ".csv":
         raise click.BadParameter(
             f"Expected a .csv file, got '{p.suffix}': {path}"
+        )
+    size_mb = p.stat().st_size / (1024 * 1024)
+    if size_mb > _MAX_FILE_SIZE_MB:
+        raise click.BadParameter(
+            f"File is {size_mb:.0f} MB, exceeds the {_MAX_FILE_SIZE_MB} MB limit."
         )
     return p
 
