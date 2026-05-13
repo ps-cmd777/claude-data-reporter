@@ -2,7 +2,7 @@
 
 > **AI-powered CSV analysis and narrative report generation using Claude**
 
-[![CI](https://github.com/shushan/claude-data-reporter/actions/workflows/ci.yml/badge.svg)](https://github.com/shushan/claude-data-reporter/actions/workflows/ci.yml)
+[![CI](https://github.com/ps-cmd777/claude-data-reporter/actions/workflows/ci.yml/badge.svg)](https://github.com/ps-cmd777/claude-data-reporter/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
@@ -38,7 +38,7 @@ Charts saved to: output/
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/shushan/claude-data-reporter.git
+git clone https://github.com/ps-cmd777/claude-data-reporter.git
 cd claude-data-reporter
 pip install -e ".[dev]"
 
