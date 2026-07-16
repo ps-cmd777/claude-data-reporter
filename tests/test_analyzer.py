@@ -21,7 +21,7 @@ from src.profiler import ColumnProfile, DataProfile
 # Fixtures
 # ---------------------------------------------------------------------------
 
-_MODEL = "claude-sonnet-4-5-20250514"
+_MODEL = "claude-sonnet-5"
 
 
 @pytest.fixture()

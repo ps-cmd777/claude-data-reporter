@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 # Load .env before any os.getenv call anywhere in the pipeline
 load_dotenv()
 
-_DEFAULT_MODEL = "claude-sonnet-4-6"
+_DEFAULT_MODEL = "claude-sonnet-5"
 _DEFAULT_OUTPUT_DIR = "output"
 
 
@@ -65,7 +65,7 @@ def analyze(
     Examples:
       claude-data-reporter analyze sales.csv
       claude-data-reporter analyze data.csv --output-dir reports/ --verbose
-      claude-data-reporter analyze data.csv --no-charts --model claude-opus-4-6
+      claude-data-reporter analyze data.csv --no-charts --model claude-opus-4-8
     """
     # Lazy imports so CLI --help is instant even without dependencies installed
     from src.analyzer import DataAnalyzer
